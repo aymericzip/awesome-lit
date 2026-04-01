@@ -73,6 +73,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
 - [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
 - [Vite Lit + Tailwind](https://github.com/lloydrichards/base_lit-with-tailwind) - Modified Vite + Lit starter to use Tailwind v4.
+- [Vite Lit + Intlayer](https://github.com/aymericzip/intlayer-vite-lit-template)
 
 ## Codelabs
 
@@ -102,6 +103,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 - [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
+- [Lit and Intlayer (i18n)](https://intlayer.org/doc/environment/vite-and-lit)
 
 ## Examples
 
